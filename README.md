@@ -1,19 +1,11 @@
 <!-- Banner -->
-<img src="./banner/github_banner.png" alt="Hello world">
-
-<br/>
-
-<!--- title --->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Touhidur Zaman</h1></summary>
-    <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="[https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Technical+Instructor+@PH;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Bioinformatics](https://i.ibb.co.com/wrFdwfcL/Chat-GPT-Image-Nov-19-2025-09-46-04-AM.png)" alt="Typing SVG" /></a>
-  </ul>
-</div>
-
-<br/>
-
+<p align="center">
+  <img src="https://i.ibb.co.com/Rkm097nN/Furniture.jpg" 
+       alt="Sarafat Hossen Banner" 
+       width="100%" 
+       height="300px" 
+       style="max-width: 1000px;" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Sarafat Hossen</h1>
 <h3 align="center">A Passionate Frontend & MERN Stack Developer from Bangladesh</h3>
@@ -86,4 +78,4 @@
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
+⭐ **Thanks for visiting my profile!**
