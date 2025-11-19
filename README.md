@@ -1,7 +1,18 @@
 <!-- Banner -->
-<p align="center">
-  <img height="300px" width="100%" src="https://i.ibb.co.com/wrFdwfcL/Chat-GPT-Image-Nov-19-2025-09-46-04-AM.png" alt="Sarafat Hossen Banner" />
-</p>
+<img src="./banner/github_banner.png" alt="Hello world">
+
+<br/>
+
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Touhidur Zaman</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="[https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Technical+Instructor+@PH;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Bioinformatics](https://i.ibb.co.com/wrFdwfcL/Chat-GPT-Image-Nov-19-2025-09-46-04-AM.png)" alt="Typing SVG" /></a>
+  </ul>
+</div>
+
+<br/>
 
 
 <h1 align="center">Hi 👋, I'm Sarafat Hossen</h1>
