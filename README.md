@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/wrFdwfcL/Chat-GPT-Image-Nov-19-2025-09-46-04-AM.png" alt="Sarafat Hossen Banner" />
+  <img height="300px" width="100%" src="https://i.ibb.co.com/wrFdwfcL/Chat-GPT-Image-Nov-19-2025-09-46-04-AM.png" alt="Sarafat Hossen Banner" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Sarafat Hossen</h1>
 <h3 align="center">A Passionate Frontend & MERN Stack Developer from Bangladesh</h3>
